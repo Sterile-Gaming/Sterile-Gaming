@@ -40,7 +40,7 @@ I'm a passionate Python developer who loves exploring new technologies and contr
   <img src="https://komarev.com/ghpvc/?username=Sterile-Gaming&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views"/>
 </div>
 
-### 🎯 Goals for 2024
+### 🎯 Goals for 2025
 - Master Python frameworks like Django and Flask
 - Contribute to major open-source projects
 - Build a strong coding community on Instagram
