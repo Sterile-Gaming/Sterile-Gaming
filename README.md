@@ -91,6 +91,4 @@ I'm a passionate Python developer with a keen interest in building innovative so
 
 <div align="center">
   <h3>💬 Let's connect and collaborate! Feel free to reach out.</h3>
-  
-  ![Snake animation](https://github.com/Sterile-Gaming/Sterile-Gaming/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
