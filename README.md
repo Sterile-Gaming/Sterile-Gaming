@@ -74,14 +74,14 @@ I'm a passionate Python developer with a keen interest in building innovative so
   <img src="https://github-profile-trophy.vercel.app/?username=Sterile-Gaming&theme=radical&column=7&no-frame=true" alt="GitHub Trophies"/>
 </div>
 
-## 📌 Featured Projects
+<!-- ## 📌 Featured Projects -->
 
-<div align="center">
-  <a href="https://github.com/Sterile-Gaming/project-name">
+<!-- <div align="center"> -->
+  <!-- <a href="https://github.com/Sterile-Gaming/project-name">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sterile-Gaming&repo=Sterile-Gaming&theme=radical&hide_border=true" />
-  </a>
+  </a> -->
   <!-- Add more project cards as needed -->
-</div>
+<!-- </div> -->
 
 ## 📈 GitHub Activity Graph
 
