@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # This line explicitly adds write permission
 
     steps:
       - uses: actions/checkout@v2
