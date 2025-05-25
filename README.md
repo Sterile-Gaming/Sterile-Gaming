@@ -74,9 +74,9 @@ Building robust blockchain interaction systems
 
 ```mermaid
 flowchart LR
-    A["Current: Python/Node.js"] --> B["Learning: Rust"]
-    B --> C["Advanced Blockchain"]
-    C --> D["Professional Backend Dev"]
+    A["Python/Node.js"] --> B["Learning Rust"]
+    B --> C["Blockchain"]
+    C --> D["Backend Dev"]
     D --> E["Full-Stack Web3"]
 ```
 
