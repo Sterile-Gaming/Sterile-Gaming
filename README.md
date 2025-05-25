@@ -1,94 +1,141 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F724C9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Himanshu+Singh!;Python+Developer+%26+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <a href="https://instagram.com/sterile.py/"><img src="https://img.shields.io/badge/-sterile.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:himanshusingh2945@gmail.com"><img src="https://img.shields.io/badge/-himanshusingh2945@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/Sterile-Gaming"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Sterile-Gaming&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-</p>
-
-## 🚀 About Me
-
-I'm a passionate Python developer with a keen interest in building innovative solutions and contributing to open-source projects. When I'm not immersed in code, you can find me gaming or sharing programming insights on Instagram [@sterile.py](https://instagram.com/sterile.py/).
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>What I'm up to:</h3>
-      <ul>
-        <li>🔭 Currently working on enhancing my Python skills</li>
-        <li>🌱 Learning advanced Python libraries and frameworks</li>
-        <li>👯 Looking to collaborate on innovative Python projects</li>
-        <li>🎮 Gaming enthusiast and tech lover</li>
-        <li>📈 Building a strong coding community</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🎯 Goals for 2025:</h3>
-      <ul>
-        <li>Master Python frameworks like Django and Flask</li>
-        <li>Contribute to major open-source projects</li>
-        <li>Build a strong coding community on Instagram</li>
-        <li>Create helpful programming tutorials and content</li>
-        <li>Develop a portfolio of impactful applications</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="30"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="30"/>
-</p>
-
-<details>
-  <summary><b>🛠️ Languages & Tools I Use</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,flask,django,docker,linux,mongodb,mysql,nodejs,npm,react,sqlite,bash" />
-  </p>
-</details>
-
-## 📊 GitHub Stats
+# Hey, I'm Sterile-Gaming 👨‍💻
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sterile-Gaming&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Himanshu's GitHub Stats" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sterile-Gaming&layout=compact&theme=radical&hide_border=true" alt="Himanshu's Top Languages" height="170px"/>
-</div>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer;Blockchain+Enthusiast;AI-Powered+Development;Building+the+Future)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sterile-Gaming&theme=radical&hide_border=true" alt="GitHub Streak" width="70%"/>
-</div>
+  </div>
 
-## 🏆 GitHub Trophies
+  ## 🎯 About Me
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sterile-Gaming&theme=radical&column=7&no-frame=true" alt="GitHub Trophies"/>
-</div>
+  I'm a passionate backend developer specializing in **scalable server architectures** and **blockchain technologies**. My expertise spans from traditional backend systems to cutting-edge **Solana blockchain interactions**. I leverage AI-powered development tools to accelerate innovation and build robust, future-ready applications.
 
-<!-- ## 📌 Featured Projects -->
+  Currently architecting solutions that bridge Web2 and Web3 ecosystems while mastering the art of high-performance backend development.
 
-<!-- <div align="center"> -->
-  <!-- <a href="https://github.com/Sterile-Gaming/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sterile-Gaming&repo=Sterile-Gaming&theme=radical&hide_border=true" />
-  </a> -->
-  <!-- Add more project cards as needed -->
-<!-- </div> -->
+  ---
 
-## 📈 GitHub Activity Graph
+  ## 🛠️ Technology Arsenal
 
-<div align="center">
-  <img alt="Himanshu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sterile-Gaming&theme=radical&hide_border=true" />
-</div>
+  ### **Core Backend**
+  ```javascript
+  const techStack = {
+    languages: ['Python', 'JavaScript', 'Node.js'],
+      learning: ['Rust'],
+        blockchain: ['Solana'],
+          databases: ['PostgreSQL', 'MongoDB', 'Redis'],
+            cloud: ['AWS', 'Docker'],
+              ai_tools: ['GitHub Copilot', 'ChatGPT']
+              }
+              ```
 
-<div align="center">
-  <h3>💬 Let's connect and collaborate! Feel free to reach out.</h3>
-</div>
+              ### **Blockchain & Web3**
+              - **Solana** - Smart contracts and DApp development
+              - **Web3 Integration** - Blockchain interactions and wallet connectivity
+              - **DeFi Protocols** - Understanding of decentralized finance ecosystems
+
+              ### **Development Workflow**
+              - **AI-Enhanced Coding** - GitHub Copilot, ChatGPT integration
+              - **Version Control** - Git, GitHub workflows
+              - **API Design** - RESTful services, GraphQL
+              - **System Architecture** - Microservices, scalable backends
+
+              ---
+
+              ## 🚀 Featured Projects
+
+              ### 🤖 **Pulse Bot**
+              Advanced Telegram bot with intelligent automation features
+              - **Status:** In Development
+              - **Tech:** Node.js, Python, AI Integration
+              - **Features:** Smart responses, automated workflows
+
+              ### ⛓️ **Solana Blockchain Integrations**
+              Building robust blockchain interaction systems
+              - **Focus:** Smart contract interactions, transaction processing
+              - **Tech:** Solana SDK, Web3.js, Rust (learning)
+
+              ---
+
+              ## 📈 GitHub Analytics
+
+              <div align="center">
+
+              ![Sterile-Gaming's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sterile-Gaming&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+              ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sterile-Gaming&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+              ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sterile-Gaming&theme=tokyonight&hide_border=true)
+
+              </div>
+
+              ---
+
+              ## 🎯 2025 Roadmap
+
+              ```mermaid
+              graph LR
+                  A[Current: Python/Node.js] --> B[Learning: Rust]
+                      B --> C[Advanced Blockchain]
+                          C --> D[Professional Backend Dev]
+                              D --> E[Full-Stack Web3]
+                              ```
+
+                              **Q2 2025 Goals:**
+                              - [x] Master Python and Node.js fundamentals
+                              - [ ] Complete Rust advanced concepts
+                              - [ ] Deploy production Solana smart contracts
+                              - [ ] Build comprehensive backend portfolio
+                              - [ ] Contribute to major open-source blockchain projects
+
+                              ---
+
+                              ## 🌐 Connect & Collaborate
+
+                              <div align="center">
+
+                              [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sterile_Gaming)
+                              [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sterile-Gaming)
+
+                              </div>
+
+                              ---
+
+                              ## 💡 Current Focus
+
+                              > 🔍 **Exploring:** Advanced Rust patterns for blockchain development  
+                              > 🚀 **Building:** Next-generation Telegram automation with AI  
+                              > 🌱 **Learning:** Solana program development and DeFi protocols  
+                              > 🎯 **Goal:** Becoming a professional backend developer by Q4 2025  
+
+                              ---
+
+                              ## 📊 Weekly Development Breakdown
+
+                              ```text
+                              Rust          ████████████░░░░░░░░░░   60%
+                              Solana        ████████░░░░░░░░░░░░░░   40%
+                              Python/Node   ████████████████░░░░░░   80%
+                              AI Tools      ██████████████████████   100%
+                              ```
+
+                              ---
+
+                              ## 🏆 Achievements & Milestones
+
+                              - 🚀 **May 2025:** Started advanced Rust learning journey
+                              - 🤖 **Q2 2025:** Developing Pulse Bot with AI integration
+                              - ⛓️ **2025:** Diving deep into Solana blockchain development
+                              - 🎯 **Goal:** Professional backend developer by end of 2025
+
+                              ---
+
+                              <div align="center">
+
+                              ### *"Code is poetry written in logic"*
+
+                              **⚡ Powered by curiosity, driven by innovation ⚡**
+
+                              ![Profile Views](https://komarev.com/ghpvc/?username=Sterile-Gaming&color=brightgreen&style=flat-square)
+                              ![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202025-blue?style=flat-square)
+
+                              </div>
