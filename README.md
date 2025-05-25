@@ -73,11 +73,11 @@ Building robust blockchain interaction systems
 ## 🎯 2025 Roadmap
 
 ```mermaid
-graph LR
-    A[Current: Python/Node.js] --> B[Learning: Rust]
-    B --> C[Advanced Blockchain]
-    C --> D[Professional Backend Dev]
-    D --> E[Full-Stack Web3]
+flowchart LR
+    A["Current: Python/Node.js"] --> B["Learning: Rust"]
+    B --> C["Advanced Blockchain"]
+    C --> D["Professional Backend Dev"]
+    D --> E["Full-Stack Web3"]
 ```
 
 **Q2 2025 Goals:**
